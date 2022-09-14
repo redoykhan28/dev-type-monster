@@ -218,8 +218,13 @@ button {
 .question-section {
 
   width: 80%;
-  margin: 0 auto;
-  margin-top: 40px;
+  margin: 40px auto;
+}
+
+.ques {
+
+  margin: 60px 0;
+
 }
 
 .blog-textQuestion {
@@ -231,6 +236,12 @@ button {
 
 .blog-text {
 
-  margin: 25px 0;
   font-size: 20px;
+}
+
+.order-list {
+
+  margin-left: 14px;
+  margin-top: 5px;
+  font-size: 18px;
 }
