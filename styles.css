@@ -9,6 +9,7 @@ body {
   background-size: cover;
   background-position: left top;
   font-family: "Zilla Slab", serif;
+  color: white;
 }
 
 .box-container {
@@ -91,6 +92,12 @@ body {
 
 .bold {
   font-weight: 700;
+  margin: 10px 0px;
+}
+
+.clsbtn {
+
+  margin: 20px 0;
 }
 
 .inactive {
@@ -105,6 +112,11 @@ body {
   text-align: center;
   color: white;
   margin: 20px 0;
+}
+
+.blog a {
+
+  text-align: right;
 }
 
 .divider-container {
@@ -200,4 +212,25 @@ button {
     grid-template-columns: repeat(1, 1fr);
     margin-bottom: 30px;
   }
+}
+
+/* blog page  */
+.question-section {
+
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.blog-textQuestion {
+
+  font-size: 25px;
+  margin: 20px 0;
+
+}
+
+.blog-text {
+
+  margin: 25px 0;
+  font-size: 20px;
 }
